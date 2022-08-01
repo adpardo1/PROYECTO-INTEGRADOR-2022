@@ -9,3 +9,5 @@ Los elementos utilizados para la elaboracion del proyecto integrador de la mater
   Archivos de datos en formato CSV.
   
 Y una parte de programacion.
+
+En la cual se analizaron los datos mediante dataframe con uso de Zeppelin con uso de Spark y MySql, realizando consultas estadisticas con comparaciones de datos mismas consultas que podran ser visualizarlas en una pagina web dentro de un servidor local.
