@@ -35,7 +35,10 @@ Repositorio del proyecto integrador de saberes 2022
 - Zeppelin
 - Spark
 - Visual studio code
-
+- Node.js(Usando express.js)
+- Jdbc de MySql
+- Scala
+- JavaScript
  **Repositorio:**
 - *En la cual se analizaron los datos mediante dataframe con uso de Zeppelin con uso de Spark y MySql, realizando consultas estadisticas con comparaciones de datos mismas consultas que podran ser visualizarlas en una pagina web dentro de un servidor local.*
 
